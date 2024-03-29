@@ -1,0 +1,7 @@
+name: custom-inventories
+version: '${project.version}'
+main: me.kodysimpson.custominventories.CustomInventories
+api-version: '1.20'
+commands:
+  menu:
+    description: huuuh
